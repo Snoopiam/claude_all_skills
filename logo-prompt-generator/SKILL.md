@@ -926,6 +926,160 @@ oversaturated, noisy
 - **Refinement**: Figma, Adobe Illustrator, Affinity Designer
 - **Color Extraction**: Coolors.co, Adobe Color
 
+## BANNED: AI-Generated Aesthetic Clichés
+
+**CRITICAL**: Never include these in prompts as they produce generic, obviously AI-generated results:
+
+### BANNED COLOR TERMS (Never use in prompts)
+
+```
+PURPLE/VIOLET (The #1 AI cliché):
+- "purple", "violet", "lavender", "amethyst"
+- "purple and blue gradient"
+- "cyan and purple"
+- "neon purple"
+
+OVERUSED COMBINATIONS:
+- "blue to purple gradient"
+- "pink and purple"
+- "electric blue and cyan"
+- "synthwave colors"
+- "aurora colors"
+- "cosmic colors"
+- "galaxy palette"
+
+GENERIC TECH:
+- "tech blue"
+- "startup colors"
+- "modern gradient"
+```
+
+### BANNED STYLE TERMS (Remove from prompts)
+
+```
+OVERUSED AESTHETICS:
+- "glassmorphism"
+- "3D floating"
+- "neon glow"
+- "holographic"
+- "iridescent"
+- "chrome effect"
+- "mesh gradient"
+
+CLICHÉ DESCRIPTORS:
+- "futuristic tech"
+- "modern startup"
+- "innovative digital"
+- "cutting-edge"
+- "next-generation"
+```
+
+### BANNED SYMBOLS (Exclude from concepts)
+
+```
+OVERUSED ICONS:
+- "light bulb" (for ideas)
+- "globe" (for global)
+- "arrow pointing up" (for growth)
+- "rocket ship" (for startups)
+- "brain" or "neural network" (for AI/tech)
+- "infinity symbol"
+- "hexagon with nodes"
+- "abstract swoosh"
+- "geometric lion/wolf/eagle made of triangles"
+- "letter with hidden arrow"
+```
+
+### ENHANCED NEGATIVE PROMPTS
+
+**Add these to EVERY logo prompt:**
+```
+purple, violet, lavender, purple gradient, blue to purple,
+cyan and purple, neon glow, holographic, iridescent,
+glassmorphism, 3D floating, chrome effect, rainbow gradient,
+generic tech, startup cliché, light bulb, globe symbol,
+rocket ship, brain icon, neural network, infinity symbol,
+hexagon nodes, abstract swoosh, generic minimalist
+```
+
+### INSTEAD USE: Distinctive Alternatives
+
+**COLOR ALTERNATIVES:**
+```
+Instead of purple/blue:
+- "terracotta and cream"
+- "forest green and mustard"
+- "burgundy and gold"
+- "charcoal and coral"
+- "navy and peach"
+- "olive and blush"
+- "rust and sage"
+- "midnight green and warm gray"
+
+Specify exact colors when possible:
+- "deep burgundy (#722F37)"
+- "warm terracotta (#C2703E)"
+- "prussian blue (#003153)"
+```
+
+**STYLE ALTERNATIVES:**
+```
+Instead of generic modern:
+- "Swiss modernism, Bauhaus principles"
+- "Japanese minimalism, zen simplicity"
+- "art deco geometric precision"
+- "mid-century modern warmth"
+- "Scandinavian clean design"
+- "editorial typography focus"
+- "architectural precision"
+- "hand-crafted artisanal feel"
+```
+
+**SYMBOL ALTERNATIVES:**
+```
+Instead of cliché icons:
+- "abstract form derived from [specific concept]"
+- "negative space creating [hidden meaning]"
+- "custom letterform based on [brand name]"
+- "geometric abstraction of [real object]"
+- "typographic solution only"
+- "cultural symbol from [specific origin]"
+```
+
+### EXAMPLE: Fixing AI-Generic Prompts
+
+**BAD (Generic AI look):**
+```
+minimalist tech logo, abstract symbol, blue and purple gradient,
+modern innovation, futuristic, clean design
+```
+
+**GOOD (Distinctive):**
+```
+minimalist logo, abstract form inspired by architectural arches,
+midnight green (#004953) and warm gray (#9B9B8F),
+Swiss modernism influence, geometric precision,
+Bauhaus principles, white background
+--no purple, violet, gradient, neon, glow, tech cliché
+```
+
+**BAD (Generic AI look):**
+```
+startup logo, rocket ship, innovation, blue cyan colors,
+modern tech, dynamic
+```
+
+**GOOD (Distinctive):**
+```
+brand mark, abstract ascending form (NOT rocket),
+terracotta (#C2703E) and charcoal (#36454F),
+editorial precision, architectural influence,
+balanced asymmetry, white background
+--no rocket, arrow, swoosh, purple, blue gradient, generic tech
+```
+
+---
+
 ## Best Practices Summary
 
 1. **Start Simple**: Minimalist prompts often produce better logos than complex ones
@@ -938,6 +1092,7 @@ oversaturated, noisy
 8. **Test at Small Sizes**: Best logos work at 50px width
 9. **Monochrome First**: Test in black and white before adding color
 10. **Document Prompts**: Save successful prompts for future refinement
+11. **AVOID AI CLICHÉS**: Never use purple, gradients, or generic tech symbols
 
 ## Ethical Considerations
 

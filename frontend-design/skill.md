@@ -353,6 +353,162 @@ Test with:
 
 ## Anti-Patterns to Avoid
 
+### BANNED: Generic AI Aesthetics
+
+This is **CRITICAL**. The following are explicitly forbidden because they scream "AI generated":
+
+#### BANNED COLORS (Never use as primary/accent):
+```
+PURPLE/VIOLET FAMILY (The #1 AI cliché):
+- #8B5CF6, #7C3AED, #6D28D9 (Violet/Purple - massively overused)
+- #A855F7, #9333EA, #7E22CE (Purple variants)
+- #C084FC, #A78BFA, #818CF8 (Light purples/lavenders)
+
+BLUE-PURPLE GRADIENTS (The signature AI look):
+- Any gradient from blue (#3B82F6) to purple (#8B5CF6)
+- Any gradient from cyan (#06B6D4) to purple
+- Any "aurora" or "cosmic" gradient
+
+NEON/ELECTRIC COMBINATIONS:
+- #00F5D4 (Mint/Cyan) + #7B61FF (Purple) - overused combo
+- #FF006E (Hot pink) + #3A86FF (Blue)
+- Any "synthwave" palette
+
+SAFE BUT BORING:
+- Pure #3B82F6 blue as primary (Tailwind blue-500)
+- Pure #10B981 green as primary (Tailwind emerald-500)
+- #6366F1 indigo (Tailwind indigo-500)
+```
+
+#### BANNED FONTS (Never use):
+```
+OVERUSED BY AI:
+- Inter (the #1 AI default - NEVER use)
+- Roboto (Google's generic choice)
+- Open Sans (too safe, too common)
+- Poppins (trendy but now AI cliché)
+- Montserrat (overused in every AI design)
+- Lato (generic and forgettable)
+- Source Sans Pro (Adobe's boring default)
+- Nunito (AI loves this too much)
+
+SYSTEM FONTS AS PRIMARY:
+- Arial, Helvetica (only as fallback, never primary)
+- -apple-system, BlinkMacSystemFont (fallback only)
+```
+
+#### BANNED EFFECTS & STYLES:
+```
+GRADIENTS:
+- Purple-to-blue gradients (THE AI signature)
+- Rainbow/spectrum gradients
+- "Glassmorphism" with purple/blue tints
+- Gradient text on everything
+
+SHADOWS:
+- Colored shadows matching the element (purple shadow on purple button)
+- Excessive blur shadows (blur-3xl everywhere)
+- "Glow" effects on everything
+
+PATTERNS:
+- Grid dot patterns (every AI uses these)
+- Blob/organic shapes as backgrounds (the "blobby" look)
+- Floating geometric shapes (circles, triangles)
+- "Mesh gradient" backgrounds
+
+ANIMATIONS:
+- Elements floating up and down endlessly
+- Pulsing/breathing animations on everything
+- Gradient animations cycling through colors
+- Particles floating in background
+
+LAYOUTS:
+- Centered hero with gradient heading
+- 3-column feature grid with icons
+- Purple CTA buttons
+- Cards with purple/blue gradient borders
+```
+
+#### BANNED COMPONENT PATTERNS:
+```
+- Cards with gradient borders
+- Buttons with gradient backgrounds
+- "Glassmorphism" cards with blur backdrop
+- Icons in gradient circles
+- Testimonials with star ratings in purple
+- Pricing tables with "popular" badge in purple
+- Feature lists with checkmark icons in circles
+- Hero sections with floating 3D elements
+```
+
+### INSTEAD USE: Distinctive Alternatives
+
+#### COLORS - Use Unexpected Palettes:
+```css
+/* Earthy & Warm */
+--terracotta: #C2703E;
+--ochre: #CC7722;
+--rust: #A54A2A;
+--sage: #9CAF88;
+
+/* Deep & Moody */
+--midnight-green: #004953;
+--prussian-blue: #003153;
+--wine: #722F37;
+--charcoal: #36454F;
+
+/* Bright & Bold (but not AI-cliché) */
+--vermillion: #E34234;
+--chartreuse: #DFFF00;
+--electric-lime: #CCFF00;
+--coral: #FF6F61;
+
+/* Sophisticated Neutrals */
+--warm-gray: #9B9B8F;
+--greige: #B2AA9E;
+--taupe: #8B8378;
+--graphite: #383838;
+
+/* Unexpected Combinations */
+--forest + --peach
+--navy + --mustard
+--burgundy + --cream
+--teal + --terracotta
+```
+
+#### FONTS - Use Distinctive Choices:
+```css
+/* Display/Headlines */
+--font-display: 'Syne', 'Clash Display', 'Space Grotesk', 'Outfit';
+--font-editorial: 'Fraunces', 'Libre Baskerville', 'Playfair Display';
+--font-geometric: 'Archivo', 'DM Sans', 'Satoshi', 'Cabinet Grotesk';
+--font-expressive: 'Unbounded', 'Righteous', 'Chillax';
+
+/* Body */
+--font-body: 'Outfit', 'Satoshi', 'General Sans', 'Switzer';
+--font-readable: 'Source Serif 4', 'Literata', 'Charter';
+
+/* Mono */
+--font-mono: 'IBM Plex Mono', 'JetBrains Mono', 'Fira Code';
+```
+
+#### EFFECTS - Use With Purpose:
+```css
+/* Shadows - Subtle and Natural */
+--shadow-natural: 0 4px 20px rgba(0, 0, 0, 0.08);
+--shadow-elevated: 0 10px 40px rgba(0, 0, 0, 0.12);
+/* NOT colored glows, NOT excessive blur */
+
+/* Borders - Visible and Intentional */
+border: 1px solid var(--color-border);
+/* NOT gradient borders, NOT glowing borders */
+
+/* Backgrounds - Texture Over Gradients */
+background: var(--bg-primary);
+background-image: url('/noise.png'); /* subtle grain */
+/* NOT mesh gradients, NOT floating blobs */
+```
+
 NEVER use generic AI-generated aesthetics:
 - ❌ Overused fonts: Inter, Roboto, Arial, system fonts (as primary)
 - ❌ Clichéd color schemes: purple gradients on white, blue-purple tech gradients

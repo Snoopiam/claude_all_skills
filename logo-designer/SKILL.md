@@ -454,6 +454,144 @@ Create comprehensive usage guide:
 - **Symbols**: Houses, rooflines, keys, doors, skylines (use distinctively)
 - **Examples**: Zillow, Compass, Sotheby's
 
+## BANNED: AI-Generated Aesthetic Clichés
+
+**CRITICAL**: The following are EXPLICITLY FORBIDDEN because they instantly identify a design as AI-generated:
+
+### BANNED COLORS
+
+```
+PURPLE/VIOLET FAMILY (The #1 AI cliché - NEVER USE):
+- #8B5CF6, #7C3AED, #6D28D9 (Violet/Purple)
+- #A855F7, #9333EA, #7E22CE (Purple variants)
+- #C084FC, #A78BFA, #818CF8 (Light purples)
+- ANY purple as primary or accent color
+
+BLUE-PURPLE GRADIENTS:
+- Any gradient from blue to purple
+- Any gradient from cyan to purple
+- "Aurora", "cosmic", "galaxy" gradients
+- "Synthwave" color schemes
+
+OVERUSED TECH COLORS:
+- #3B82F6 (Tailwind blue-500) as primary
+- #6366F1 (Tailwind indigo-500)
+- #00F5D4 + #7B61FF (Cyan + Purple combo)
+- Neon cyan/mint as accent
+
+GENERIC STARTUP PALETTE:
+- Blue + Orange (the safe choice)
+- Green + Blue (eco-tech cliché)
+- Pink + Purple (femtech cliché)
+```
+
+### BANNED FONTS
+
+```
+NEVER USE AS PRIMARY:
+- Inter (THE AI default - absolutely forbidden)
+- Roboto (Google's generic)
+- Open Sans (too common)
+- Poppins (AI loves this)
+- Montserrat (overused everywhere)
+- Lato (forgettable)
+- Nunito (AI cliché)
+- Proxima Nova (overexposed)
+- Gotham (became generic)
+
+ONLY AS FALLBACK (never primary):
+- Arial, Helvetica
+- System fonts
+```
+
+### BANNED EFFECTS & STYLES
+
+```
+GRADIENTS:
+- Purple-to-blue gradients (THE signature AI look)
+- Rainbow/spectrum gradients on logos
+- Gradient fills on logo shapes
+- "Glass" or translucent gradient effects
+
+3D EFFECTS:
+- Fake 3D depth on flat logos
+- Isometric cube logos
+- "Floating" 3D letters
+- Chrome/metallic gradients
+
+OVERUSED SYMBOLS:
+- Light bulbs (for "ideas")
+- Globes (for "global")
+- Arrows pointing up (for "growth")
+- Handshakes (for "partnership")
+- Leaves in circles (for "eco")
+- Infinity symbols
+- Abstract "swooshes"
+- Hexagons with nodes (for "tech")
+- Brain/neural network shapes
+- Rocket ships (for "launch/startup")
+
+CLICHÉ COMBINATIONS:
+- Letter + swoosh underneath
+- Initial in a circle
+- Name with underline swoosh
+- Geometric animal made of triangles
+- Letter with arrow hidden inside
+```
+
+### INSTEAD USE: Distinctive Alternatives
+
+**COLORS - Unexpected Palettes:**
+```
+Earthy & Warm:
+- Terracotta #C2703E, Ochre #CC7722, Rust #A54A2A
+
+Deep & Moody:
+- Midnight Green #004953, Prussian Blue #003153, Wine #722F37
+
+Sophisticated:
+- Charcoal #36454F, Warm Gray #9B9B8F, Graphite #383838
+
+Bold but Different:
+- Vermillion #E34234, Coral #FF6F61, Mustard #FFDB58
+
+Unexpected Combos:
+- Forest Green + Peach
+- Navy + Mustard
+- Burgundy + Cream
+- Teal + Terracotta
+- Olive + Blush
+```
+
+**FONTS - Use Distinctive Choices:**
+```
+Display/Headlines:
+- Syne, Clash Display, Space Grotesk, Cabinet Grotesk
+- Fraunces, Playfair Display (for editorial)
+- Archivo, DM Sans, Satoshi (for geometric)
+
+Body:
+- Outfit, Satoshi, General Sans, Switzer
+- Source Serif 4, Literata, Charter (for readable)
+
+Custom Lettering:
+- Commission or create custom letterforms
+- Modify existing fonts significantly
+```
+
+**SYMBOLS - Think Different:**
+```
+Instead of generic symbols:
+- Abstract forms derived from the brand story
+- Negative space concepts (like FedEx arrow)
+- Typographic solutions (letterforms only)
+- Geometric abstractions of real concepts
+- Cultural or historical references
+- Unexpected metaphors
+```
+
+---
+
 ## Common Logo Design Mistakes to Avoid
 
 ### 1. Overcomplication
