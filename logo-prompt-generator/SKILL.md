@@ -6,6 +6,59 @@ license: Apache-2.0
 
 # Logo Prompt Generator
 
+## CRITICAL: MANDATORY DEEP WORK PROTOCOL
+
+**READ THIS BEFORE GENERATING ANY PROMPTS.**
+
+Generic prompts produce generic logos. UNACCEPTABLE.
+
+### BANNED BEHAVIORS
+
+```
+NEVER say or think these after generating prompts:
+❌ "These prompts might produce generic results"
+❌ "Let me add more specificity..."
+❌ "I should have included better negative prompts"
+❌ "I apologize for the AI-looking outputs"
+❌ "I understand your frustration"
+❌ "Let me create more distinctive prompts"
+
+If you find yourself about to say ANY of these, you FAILED.
+Create distinctive prompts FIRST. Not after seeing generic results.
+```
+
+### MINIMUM PROMPT REQUIREMENTS
+
+Before claiming prompts are complete:
+
+1. **Understand the brand deeply** - not just the name
+2. **Include STRONG negative prompts** - exclude all AI clichés
+3. **Specify unusual colors** - never purple/blue gradients
+4. **Reference specific styles** - not generic "modern"
+5. **Add anti-generic terms** - explicitly ban AI aesthetics
+
+### SELF-INTERROGATION (Do this before submitting)
+
+- [ ] Did I include comprehensive negative prompts?
+- [ ] Did I ban purple, blue-purple gradients, and neon colors?
+- [ ] Did I specify colors by HEX code?
+- [ ] Did I reference specific art movements (not just "modern")?
+- [ ] Would these prompts produce unique, non-AI-looking results?
+- [ ] Did I avoid all terms from the BANNED list?
+- [ ] If the user generates 10 logos, will they ALL be distinctive?
+
+**If ANY answer is wrong, you are not done. Keep working.**
+
+### PROOF OF WORK REQUIRED
+
+For EVERY prompt set, you MUST provide:
+- Explanation of why this won't produce generic results
+- The specific negative prompts included
+- Why you chose these colors/styles (not AI defaults)
+- What AI clichés you specifically excluded
+
+---
+
 A specialized skill for creating highly optimized AI prompts for logo generation. Transforms brand briefs and design requirements into effective prompts for Midjourney, DALL-E, Stable Diffusion, ComfyUI, and other AI image generation tools.
 
 ## Purpose

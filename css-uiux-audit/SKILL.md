@@ -5,6 +5,83 @@ description: Comprehensive CSS and UI/UX code review, issue identification, and 
 
 # CSS & UI/UX Audit Skill
 
+## CRITICAL: MANDATORY DEEP WORK PROTOCOL
+
+**READ THIS BEFORE AUDITING ANYTHING.**
+
+Superficial CSS audits are UNACCEPTABLE. Running automated tools and calling it done is UNACCEPTABLE.
+
+### BANNED BEHAVIORS
+
+```
+NEVER say or think these after an audit:
+❌ "I ran automated checks and made incremental CSS/HTML fixes"
+❌ "I didn't do a proper deep-dive audit"
+❌ "Upon closer inspection, there are more issues..."
+❌ "I should have checked the application logic"
+❌ "I apologize for the superficial review"
+❌ "I understand your frustration"
+❌ "Let me do a proper audit now"
+
+If you find yourself about to say ANY of these, you FAILED.
+Do the deep audit FIRST. Not after being questioned.
+```
+
+### MINIMUM AUDIT REQUIREMENTS
+
+Before claiming an audit is complete:
+
+1. **Read EVERY CSS file** - not samples, EVERY file
+2. **Test the ACTUAL UI** - don't just read code, verify it works
+3. **Check APPLICATION LOGIC** - CSS affects behavior, not just appearance
+4. **Verify at ALL breakpoints** - mobile, tablet, desktop
+5. **Test interactions** - hover, focus, active, disabled states
+
+### SELF-INTERROGATION (Do this before submitting)
+
+- [ ] Did I read EVERY CSS file, not just run a scanner?
+- [ ] Did I understand what each style rule actually DOES?
+- [ ] Did I check how CSS affects JavaScript behavior?
+- [ ] Did I test the UI at mobile sizes (320px)?
+- [ ] Did I verify all interactive states work?
+- [ ] Did I find issues that automated tools CANNOT find?
+- [ ] Did I check for logic issues, not just syntax?
+- [ ] If the user double-checks my audit, will they find things I missed?
+
+**If ANY answer is NO, you are not done. Keep working.**
+
+### PROOF OF WORK REQUIRED
+
+For EVERY audit finding, you MUST provide:
+- Exact file path and line number
+- The actual CSS code (quoted)
+- What the visual/behavioral problem is
+- How you verified this is actually an issue
+- The specific fix (not just "improve this")
+- How the fix resolves the problem
+
+### WHAT "DEEP AUDIT" ACTUALLY MEANS
+
+```
+SUPERFICIAL (WRONG):
+- Run a linter
+- Report syntax errors
+- Suggest generic improvements
+- "Your CSS looks mostly fine with a few issues"
+
+DEEP (CORRECT):
+- Read every file line by line
+- Understand the component architecture
+- Test the actual rendered output
+- Verify at multiple breakpoints
+- Check how CSS interacts with JS
+- Find logic bugs, not just style issues
+- Provide file:line references for everything
+- Explain WHY each issue matters
+```
+
+---
+
 Systematic review, fix, and documentation workflow for CSS files and UI/UX patterns.
 
 ## Workflow

@@ -6,6 +6,61 @@ license: Apache-2.0
 
 # Logo Designer
 
+## CRITICAL: MANDATORY DEEP WORK PROTOCOL
+
+**READ THIS BEFORE DESIGNING ANYTHING.**
+
+Superficial logo work is UNACCEPTABLE. Generic AI-looking logos are UNACCEPTABLE.
+
+### BANNED BEHAVIORS
+
+```
+NEVER say or think these after delivering a logo:
+❌ "I should have explored more concepts"
+❌ "Upon closer inspection, this looks generic..."
+❌ "Let me create something more distinctive"
+❌ "I apologize for the AI-looking result"
+❌ "I understand your frustration"
+❌ "I can make it more unique now..."
+
+If you find yourself about to say ANY of these, you FAILED.
+Do distinctive work FIRST. Not after being questioned.
+```
+
+### MINIMUM LOGO REQUIREMENTS
+
+Before claiming a logo is complete:
+
+1. **Research the brand deeply** - understand the story, not just the name
+2. **Create truly distinct concepts** - not variations of the same idea
+3. **Test at all sizes** - favicon (16px) to billboard
+4. **Verify it works in B&W** - color should enhance, not be required
+5. **Prove originality** - explain why this isn't a generic AI logo
+
+### SELF-INTERROGATION (Do this before submitting)
+
+- [ ] Did I explore at least 3 genuinely DIFFERENT directions?
+- [ ] Does this logo have a unique concept/story?
+- [ ] Would a human designer be proud of this?
+- [ ] Does this work at 16px? At 500px?
+- [ ] Does this work without color?
+- [ ] Is this distinctive from competitors?
+- [ ] Did I avoid ALL banned colors, fonts, and symbols?
+- [ ] If shown to a design expert, would they say "that's AI"?
+
+**If ANY answer is wrong, you are not done. Keep working.**
+
+### PROOF OF WORK REQUIRED
+
+For EVERY logo, you MUST provide:
+- The concept/story behind the design
+- Why this is distinctive (not generic)
+- How it works at different sizes
+- Why you chose these specific colors/fonts
+- Evidence it doesn't match banned aesthetics
+
+---
+
 A specialized skill for creating professional logo designs through systematic brand analysis, visual identity principles, and expert design execution. Produces original, distinctive logos with complete brand identity guidelines.
 
 ## Purpose

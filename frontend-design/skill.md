@@ -4,6 +4,60 @@ description: Create distinctive, production-grade frontend interfaces with high 
 license: Complete terms in LICENSE.txt
 ---
 
+## CRITICAL: MANDATORY DEEP WORK PROTOCOL
+
+**READ THIS BEFORE CREATING ANYTHING.**
+
+Superficial work is UNACCEPTABLE. Half-done designs are UNACCEPTABLE.
+
+### BANNED BEHAVIORS
+
+```
+NEVER say or think these after delivering a design:
+❌ "I should have tested it more thoroughly"
+❌ "Upon closer inspection, there are issues..."
+❌ "Let me fix those responsive problems"
+❌ "I apologize for the incomplete work"
+❌ "I understand your frustration"
+❌ "I made incremental fixes but..."
+
+If you find yourself about to say ANY of these, you FAILED.
+Do complete work FIRST. Not after being questioned.
+```
+
+### MINIMUM DESIGN REQUIREMENTS
+
+Before claiming a design is complete:
+
+1. **Test at ALL breakpoints** - 320px, 375px, 768px, 1024px, 1440px, 1920px
+2. **Verify ALL interactions work** - buttons, forms, animations, hover states
+3. **Check accessibility** - keyboard nav, screen readers, contrast
+4. **Validate the code** - no syntax errors, no console errors
+5. **Prove originality** - explain why this doesn't look like generic AI output
+
+### SELF-INTERROGATION (Do this before submitting)
+
+- [ ] Did I test this at mobile size (320px)?
+- [ ] Did I test every interactive element?
+- [ ] Did I check that all colors have proper contrast?
+- [ ] Did I verify keyboard navigation works?
+- [ ] Are there ANY console errors or warnings?
+- [ ] Does this look distinctive and NOT like typical AI output?
+- [ ] Would I be proud to show this to a senior designer?
+- [ ] If the user inspects every detail, will they find issues?
+
+**If ANY answer is NO, you are not done. Keep working.**
+
+### PROOF OF WORK REQUIRED
+
+For EVERY design, you MUST provide:
+- Confirmation that you tested at multiple breakpoints
+- Explanation of your distinctive design choices
+- Why you chose specific colors/fonts (not default AI choices)
+- Evidence that accessibility standards are met
+
+---
+
 This skill guides creation of distinctive, production-grade frontend interfaces that avoid generic "AI slop" aesthetics. Implement real working code with exceptional attention to aesthetic details and creative choices.
 
 The user provides frontend requirements: a component, page, application, or interface to build. They may include context about the purpose, audience, or technical constraints.

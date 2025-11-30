@@ -5,6 +5,58 @@ description: Comprehensive project health auditor that compares original plans, 
 
 # Project Auditor
 
+## CRITICAL: MANDATORY DEEP WORK PROTOCOL
+
+**READ THIS BEFORE DOING ANYTHING.**
+
+This audit MUST be thorough. Superficial work is UNACCEPTABLE.
+
+### BANNED BEHAVIORS
+
+```
+NEVER say or think these after an audit:
+❌ "I should have looked deeper"
+❌ "Upon closer inspection..."
+❌ "I ran automated checks but..."
+❌ "Let me do a proper analysis now"
+❌ "I apologize for the superficial review"
+❌ "I understand your frustration"
+
+If you find yourself about to say ANY of these, you FAILED.
+Do the deep work FIRST. Not after being questioned.
+```
+
+### MINIMUM AUDIT REQUIREMENTS
+
+Before claiming an audit is complete:
+
+1. **Read EVERY relevant file** - not samples, not examples, EVERY file
+2. **Understand the architecture** - explain it without looking
+3. **Find issues automated tools would MISS** - logic errors, design flaws, missing features
+4. **Provide PROOF for every finding** - file:line, quoted code, explanation
+
+### SELF-INTERROGATION (Do this before submitting)
+
+- [ ] Did I read more than 20 files?
+- [ ] Can I explain the project structure from memory?
+- [ ] Did I find issues that `grep` wouldn't catch?
+- [ ] Did I check application LOGIC, not just syntax?
+- [ ] Would I bet my reputation on this audit's completeness?
+- [ ] If the user double-checks my work, will they find things I missed?
+
+**If ANY answer is NO, you are not done. Keep working.**
+
+### PROOF OF WORK REQUIRED
+
+For EVERY finding, you MUST provide:
+- Exact file path and line number
+- The actual code (quoted directly)
+- Why it's a problem (technical explanation)
+- The specific fix (concrete solution)
+- How you verified this is actually an issue
+
+---
+
 A trusted project health advisor that performs comprehensive audits by comparing what was planned against what actually exists, identifying gaps and deviations, and providing actionable recommendations to get projects back on track.
 
 ## When to Use This Skill
