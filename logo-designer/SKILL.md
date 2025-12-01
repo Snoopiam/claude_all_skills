@@ -116,10 +116,97 @@ Each variation MUST differ in at least 2 of these aspects:
 
 ### ACCEPTABLE (Truly different)
 ```
-✓ Variation 1: Minimalist wordmark with geometric letterforms
-✓ Variation 2: Abstract symbol with organic flowing shapes
-✓ Variation 3: Vintage emblem with serif typography and badge style
+✓ 3 variations that explore completely different visual territories
+✓ Each variation tells a different story about the brand
+✓ A viewer would NOT guess they're for the same project
 ```
+
+### THINKING PROCESS (Required before designing)
+
+Before creating ANY logo variations, you MUST complete this strategic analysis:
+
+```markdown
+## LOGO DIRECTION THINKING
+
+### Brand Deep Dive
+- Brand name: [name]
+- Industry: [industry]
+- Core essence (in 3 words): [words]
+- Target audience: [who they are, what they value]
+- Competitors: [who they are, what they look like]
+- Desired perception: [how brand wants to be seen]
+
+### Visual Territory Exploration
+Which visual approaches could work for THIS specific brand?
+
+| Territory | Fit for This Brand? | Why/Why Not |
+|-----------|---------------------|-------------|
+| Geometric/Architectural | [score 1-5] | [reasoning] |
+| Organic/Natural | [score 1-5] | [reasoning] |
+| Vintage/Heritage | [score 1-5] | [reasoning] |
+| Bold/Dynamic | [score 1-5] | [reasoning] |
+| Minimal/Refined | [score 1-5] | [reasoning] |
+| Playful/Friendly | [score 1-5] | [reasoning] |
+| Luxurious/Premium | [score 1-5] | [reasoning] |
+| Technical/Precise | [score 1-5] | [reasoning] |
+| Artisanal/Handcrafted | [score 1-5] | [reasoning] |
+| Editorial/Typography-focused | [score 1-5] | [reasoning] |
+
+### Logo Type Analysis
+Which logo types suit this brand?
+
+| Type | Appropriateness | Reasoning |
+|------|-----------------|-----------|
+| Wordmark | [score 1-5] | [why] |
+| Lettermark/Monogram | [score 1-5] | [why] |
+| Symbol/Icon | [score 1-5] | [why] |
+| Combination Mark | [score 1-5] | [why] |
+| Emblem/Badge | [score 1-5] | [why] |
+
+### Color Psychology for This Brand
+What colors align with brand personality?
+
+| Color Family | Brand Fit | Emotional Match |
+|--------------|-----------|-----------------|
+| [color] | [yes/no] | [what it communicates] |
+| [color] | [yes/no] | [what it communicates] |
+| [color] | [yes/no] | [what it communicates] |
+
+### Selected 3 Directions (with strategic reasoning)
+
+**Variation 1: [Concept Name]**
+- Visual territory: [which one]
+- Logo type: [which one]
+- Color direction: [which palette]
+- Why this fits: [brand-specific reasoning]
+- What story it tells: [narrative]
+- Risk: [potential downside]
+- Reward: [potential upside]
+
+**Variation 2: [Concept Name]**
+- Visual territory: [which one - DIFFERENT from V1]
+- Logo type: [which one]
+- Color direction: [which palette - DIFFERENT from V1]
+- Why this fits: [brand-specific reasoning]
+- How it CONTRASTS with V1: [specific differences]
+
+**Variation 3: [Concept Name]**
+- Visual territory: [which one - DIFFERENT from V1 & V2]
+- Logo type: [which one]
+- Color direction: [which palette]
+- Why this fits: [brand-specific reasoning]
+- How it CONTRASTS with V1 & V2: [specific differences]
+
+### Directions Considered But Rejected
+- [Approach]: [Why it doesn't work for THIS brand]
+- [Approach]: [Why it doesn't work for THIS brand]
+
+### Industry Convention Decision
+- Follow conventions: [which ones and why]
+- Subvert conventions: [which ones and why]
+```
+
+**This thinking process MUST be completed and documented before designing.**
 
 ### Concept Notes Template (for each variation)
 

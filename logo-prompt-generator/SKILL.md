@@ -107,10 +107,63 @@ Each prompt set MUST differ in at least 2 of these aspects:
 
 ### ACCEPTABLE (Truly different)
 ```
-✓ Direction 1: Geometric Bauhaus-inspired symbol with terracotta and charcoal
-✓ Direction 2: Hand-drawn organic wordmark with sage and cream
-✓ Direction 3: Art Deco emblem with navy and gold
+✓ 3 directions that explore completely different visual territories
+✓ Each direction tells a different story about the brand
+✓ A viewer would NOT guess they're for the same project
 ```
+
+### THINKING PROCESS (Required before creating directions)
+
+Before generating ANY prompts, you MUST complete this analysis:
+
+```markdown
+## DIRECTION THINKING
+
+### Brand Analysis
+- What is the brand's core essence?
+- Who is the target audience?
+- What emotions should it evoke?
+- What industry conventions exist (to follow OR subvert)?
+
+### Visual Territory Mapping
+Based on the brand, which visual territories make sense?
+
+| Territory | Relevance to Brand | Potential Direction? |
+|-----------|-------------------|---------------------|
+| Geometric/Architectural | [why/why not] | [yes/no] |
+| Organic/Natural | [why/why not] | [yes/no] |
+| Vintage/Heritage | [why/why not] | [yes/no] |
+| Bold/Dynamic | [why/why not] | [yes/no] |
+| Minimal/Refined | [why/why not] | [yes/no] |
+| Playful/Friendly | [why/why not] | [yes/no] |
+| Luxurious/Premium | [why/why not] | [yes/no] |
+| Technical/Precise | [why/why not] | [yes/no] |
+| Artisanal/Handcrafted | [why/why not] | [yes/no] |
+| Editorial/Typography-focused | [why/why not] | [yes/no] |
+
+### Selected 3 Directions (with reasoning)
+
+**Direction 1: [Name]**
+- Why this fits the brand: [explanation]
+- What it communicates: [explanation]
+- Risk/reward: [what could go wrong vs. upside]
+
+**Direction 2: [Name]**
+- Why this fits the brand: [explanation]
+- What it communicates: [explanation]
+- How it DIFFERS from Direction 1: [specific contrast]
+
+**Direction 3: [Name]**
+- Why this fits the brand: [explanation]
+- What it communicates: [explanation]
+- How it DIFFERS from Directions 1 & 2: [specific contrast]
+
+### Directions I Considered But Rejected
+- [Direction]: [Why it doesn't fit THIS brand]
+- [Direction]: [Why it doesn't fit THIS brand]
+```
+
+**This thinking process MUST be completed and documented before generating prompts.**
 
 ### Direction Notes Template (for each folder)
 
