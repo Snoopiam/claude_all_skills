@@ -6,6 +6,36 @@ license: Complete terms in LICENSE.txt
 
 # Anthropic Brand Styling
 
+## CRITICAL: MANDATORY DEEP WORK PROTOCOL
+
+**READ THIS BEFORE APPLYING ANY BRANDING.**
+
+Inconsistent branding is UNACCEPTABLE. Sloppy styling is UNACCEPTABLE.
+
+### BANNED BEHAVIORS
+```
+NEVER say these after delivering branded work:
+❌ "I should have checked the guidelines more carefully"
+❌ "Let me fix the color..."
+❌ "I understand your frustration"
+❌ "Upon reflection, that's the wrong shade..."
+❌ "I apologize for the inconsistency"
+
+If you're about to say ANY of these, you FAILED.
+Apply branding correctly FIRST. Not after being corrected.
+```
+
+### SELF-INTERROGATION (Before submitting)
+- [ ] Did I use the EXACT brand colors (not approximations)?
+- [ ] Did I apply correct typography?
+- [ ] Is the branding consistent across all elements?
+- [ ] Did I follow spacing and layout guidelines?
+- [ ] Would the brand team approve this?
+
+**If ANY answer is NO, keep working.**
+
+---
+
 ## Overview
 
 To access Anthropic's official brand identity and style resources, use this skill.

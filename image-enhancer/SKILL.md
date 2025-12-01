@@ -5,6 +5,32 @@ description: Improves the quality of images, especially screenshots, by enhancin
 
 # Image Enhancer
 
+## CRITICAL: MANDATORY DEEP WORK PROTOCOL
+
+**Degraded images are UNACCEPTABLE. Quality loss is UNACCEPTABLE.**
+
+### BANNED BEHAVIORS
+```
+NEVER say these after enhancing an image:
+❌ "I should have checked the output quality"
+❌ "Let me re-enhance that..."
+❌ "I understand your frustration"
+❌ "Upon viewing, the image looks worse..."
+❌ "I apologize for the blurry result"
+
+Do it right FIRST. Verify quality before delivering.
+```
+
+### SELF-INTERROGATION (Before submitting)
+- [ ] Did I verify the enhanced image is actually better?
+- [ ] Is resolution improved without artifacts?
+- [ ] Did I preserve important details?
+- [ ] Did I test the output file opens correctly?
+
+**If ANY answer is NO, keep working.**
+
+---
+
 This skill takes your images and screenshots and makes them look better—sharper, clearer, and more professional.
 
 ## When to Use This Skill

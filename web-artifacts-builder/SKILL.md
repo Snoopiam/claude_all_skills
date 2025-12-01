@@ -6,6 +6,32 @@ license: Complete terms in LICENSE.txt
 
 # Web Artifacts Builder
 
+## CRITICAL: MANDATORY DEEP WORK PROTOCOL
+
+**Broken artifacts are UNACCEPTABLE. Build failures are UNACCEPTABLE.**
+
+### BANNED BEHAVIORS
+```
+NEVER say these after building artifacts:
+❌ "I should have tested the bundle"
+❌ "Let me fix that build error..."
+❌ "I understand your frustration"
+❌ "Upon opening, the artifact doesn't render..."
+❌ "I apologize for the broken HTML"
+
+Do it right FIRST. Follow ALL steps and verify the bundle.
+```
+
+### SELF-INTERROGATION (Before submitting)
+- [ ] Did I follow all 5 steps in order?
+- [ ] Does the bundle.html render correctly?
+- [ ] Are all dependencies inlined?
+- [ ] Did the bundle script complete without errors?
+
+**If ANY answer is NO, keep working.**
+
+---
+
 To build powerful frontend claude.ai artifacts, follow these steps:
 1. Initialize the frontend repo using `scripts/init-artifact.sh`
 2. Develop your artifact by editing the generated code

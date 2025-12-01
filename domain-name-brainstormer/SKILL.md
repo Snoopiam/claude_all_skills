@@ -5,6 +5,32 @@ description: Generates creative domain name ideas for your project and checks av
 
 # Domain Name Brainstormer
 
+## CRITICAL: MANDATORY DEEP WORK PROTOCOL
+
+**Generic names are UNACCEPTABLE. Unchecked availability is UNACCEPTABLE.**
+
+### BANNED BEHAVIORS
+```
+NEVER say these after delivering domain suggestions:
+❌ "I should have been more creative"
+❌ "Let me check availability..."
+❌ "I understand your frustration"
+❌ "Upon checking, those are taken..."
+❌ "I apologize for the generic suggestions"
+
+Do it right FIRST. Verify before suggesting.
+```
+
+### SELF-INTERROGATION (Before submitting)
+- [ ] Are these names truly creative (not obvious)?
+- [ ] Did I verify availability?
+- [ ] Did I check multiple TLDs?
+- [ ] Would a branding expert approve these?
+
+**If ANY answer is NO, keep working.**
+
+---
+
 This skill helps you find the perfect domain name for your project by generating creative options and checking what's actually available to register.
 
 ## When to Use This Skill

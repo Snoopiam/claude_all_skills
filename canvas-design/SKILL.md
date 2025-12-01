@@ -4,6 +4,36 @@ description: Create beautiful visual art in .png and .pdf documents using design
 license: Complete terms in LICENSE.txt
 ---
 
+## CRITICAL: MANDATORY DEEP WORK PROTOCOL
+
+**READ THIS BEFORE CREATING ANY DESIGN.**
+
+Generic designs are UNACCEPTABLE. AI-looking art is UNACCEPTABLE.
+
+### BANNED BEHAVIORS
+```
+NEVER say these after delivering a design:
+❌ "I should have made it more unique"
+❌ "Let me try a different approach..."
+❌ "I understand your frustration"
+❌ "Upon reflection, this looks generic..."
+❌ "I apologize for the AI-looking result"
+
+If you're about to say ANY of these, you FAILED.
+Create distinctive designs FIRST. Not after criticism.
+```
+
+### SELF-INTERROGATION (Before submitting)
+- [ ] Is this design truly original?
+- [ ] Did I avoid purple gradients, blue-purple schemes?
+- [ ] Would a professional designer be proud of this?
+- [ ] Does this have genuine artistic merit?
+- [ ] Is this distinctive from typical AI output?
+
+**If ANY answer is NO, keep working.**
+
+---
+
 These are instructions for creating design philosophies - aesthetic movements that are then EXPRESSED VISUALLY. Output only .md files, .pdf files, and .png files.
 
 Complete this in two steps:

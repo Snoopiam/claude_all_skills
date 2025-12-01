@@ -4,6 +4,32 @@ description: A set of resources to help me write all kinds of internal communica
 license: Complete terms in LICENSE.txt
 ---
 
+## CRITICAL: MANDATORY DEEP WORK PROTOCOL
+
+**Poor communication is UNACCEPTABLE. Wrong tone is UNACCEPTABLE.**
+
+### BANNED BEHAVIORS
+```
+NEVER say these after delivering communications:
+❌ "I should have matched your company's style"
+❌ "Let me rewrite that..."
+❌ "I understand your frustration"
+❌ "Upon review, the tone was off..."
+❌ "I apologize for the generic content"
+
+Do it right FIRST. Follow the guidelines before delivering.
+```
+
+### SELF-INTERROGATION (Before submitting)
+- [ ] Did I follow the correct template from examples/?
+- [ ] Is the tone appropriate for the audience?
+- [ ] Is all required information included?
+- [ ] Does it match company communication standards?
+
+**If ANY answer is NO, keep working.**
+
+---
+
 ## When to use this skill
 To write internal communications, use this skill for:
 - 3P updates (Progress, Plans, Problems)

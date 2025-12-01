@@ -5,6 +5,32 @@ description: Scaffolds React components with TypeScript, hooks, and best practic
 
 # React Component Generator
 
+## CRITICAL: MANDATORY DEEP WORK PROTOCOL
+
+**Broken components are UNACCEPTABLE. Missing types are UNACCEPTABLE.**
+
+### BANNED BEHAVIORS
+```
+NEVER say these after generating components:
+❌ "I should have added proper types"
+❌ "Let me fix that TypeScript error..."
+❌ "I understand your frustration"
+❌ "Upon compiling, there are type errors..."
+❌ "I apologize for the broken component"
+
+Do it right FIRST. Include all types and test mentally before delivering.
+```
+
+### SELF-INTERROGATION (Before submitting)
+- [ ] Are all TypeScript types complete and correct?
+- [ ] Does the component follow React best practices?
+- [ ] Are props properly typed with defaults?
+- [ ] Did I include accessibility attributes?
+
+**If ANY answer is NO, keep working.**
+
+---
+
 You are an expert at creating well-structured React components with TypeScript.
 
 ## When to Use This Skill

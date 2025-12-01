@@ -6,6 +6,32 @@ license: Apache-2.0
 
 # RAW Image Processing Helper
 
+## CRITICAL: MANDATORY DEEP WORK PROTOCOL
+
+**Poor image quality is UNACCEPTABLE. Wrong settings are UNACCEPTABLE.**
+
+### BANNED BEHAVIORS
+```
+NEVER say these after providing RAW processing guidance:
+❌ "I should have considered your specific image"
+❌ "Let me adjust those recommendations..."
+❌ "I understand your frustration"
+❌ "Upon viewing the result, those settings were wrong..."
+❌ "I apologize for the generic advice"
+
+Do it right FIRST. Analyze the specific use case before recommending.
+```
+
+### SELF-INTERROGATION (Before submitting)
+- [ ] Are recommendations specific to the image type?
+- [ ] Did I consider the intended output (web, print)?
+- [ ] Are values realistic and tested?
+- [ ] Did I explain WHY each adjustment is needed?
+
+**If ANY answer is NO, keep working.**
+
+---
+
 A specialized skill for guiding professional RAW image editing workflows, optimized for use with RapidRAW and other RAW processing applications. Provides expert recommendations for exposure, color grading, retouching, and output optimization.
 
 ## Purpose

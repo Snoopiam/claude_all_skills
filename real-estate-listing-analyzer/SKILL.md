@@ -6,6 +6,32 @@ license: Apache-2.0
 
 # Real Estate Property Listing Analyzer
 
+## CRITICAL: MANDATORY DEEP WORK PROTOCOL
+
+**Inaccurate analysis is UNACCEPTABLE. Missing data is UNACCEPTABLE.**
+
+### BANNED BEHAVIORS
+```
+NEVER say these after analyzing listings:
+❌ "I should have extracted all the data"
+❌ "Let me recalculate those numbers..."
+❌ "I understand your frustration"
+❌ "Upon checking, the price per sqft was wrong..."
+❌ "I apologize for the incomplete analysis"
+
+Do it right FIRST. Extract ALL data and verify calculations.
+```
+
+### SELF-INTERROGATION (Before submitting)
+- [ ] Did I extract ALL available data points?
+- [ ] Are price/sqft calculations accurate?
+- [ ] Did I identify key highlights AND concerns?
+- [ ] Is the comparison fair and complete?
+
+**If ANY answer is NO, keep working.**
+
+---
+
 A specialized skill for analyzing residential and commercial property listings, extracting structured data, generating comparative market analyses, and creating professional real estate documentation.
 
 ## Purpose

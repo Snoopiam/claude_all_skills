@@ -5,6 +5,36 @@ description: Automatically creates user-facing changelogs from git commits by an
 
 # Changelog Generator
 
+## CRITICAL: MANDATORY DEEP WORK PROTOCOL
+
+**READ THIS BEFORE GENERATING ANY CHANGELOG.**
+
+Incomplete changelogs are UNACCEPTABLE. Missing commits is UNACCEPTABLE.
+
+### BANNED BEHAVIORS
+```
+NEVER say these after delivering a changelog:
+❌ "I should have analyzed more commits"
+❌ "Let me check for missed changes..."
+❌ "I understand your frustration"
+❌ "Upon reflection, I missed some commits..."
+❌ "I apologize for the incomplete log"
+
+If you're about to say ANY of these, you FAILED.
+Generate complete changelogs FIRST. Not after finding gaps.
+```
+
+### SELF-INTERROGATION (Before submitting)
+- [ ] Did I analyze ALL commits in the range?
+- [ ] Did I categorize changes correctly?
+- [ ] Is the language user-friendly (not technical jargon)?
+- [ ] Did I include all breaking changes prominently?
+- [ ] Would a user understand every entry?
+
+**If ANY answer is NO, keep working.**
+
+---
+
 This skill transforms technical git commits into polished, user-friendly changelogs that your customers and users will actually understand and appreciate.
 
 ## When to Use This Skill

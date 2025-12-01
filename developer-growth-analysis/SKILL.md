@@ -5,6 +5,36 @@ description: Analyzes your recent Claude Code chat history to identify coding pa
 
 # Developer Growth Analysis
 
+## CRITICAL: MANDATORY DEEP WORK PROTOCOL
+
+**READ THIS BEFORE ANALYZING ANYTHING.**
+
+Shallow analysis is UNACCEPTABLE. Generic feedback is UNACCEPTABLE.
+
+### BANNED BEHAVIORS
+```
+NEVER say these after delivering analysis:
+❌ "I should have looked at more patterns"
+❌ "Let me analyze deeper..."
+❌ "I understand your frustration"
+❌ "Upon reflection, I missed some insights..."
+❌ "I apologize for the surface-level feedback"
+
+If you're about to say ANY of these, you FAILED.
+Provide deep insights FIRST. Not after being questioned.
+```
+
+### SELF-INTERROGATION (Before submitting)
+- [ ] Did I analyze ALL relevant patterns?
+- [ ] Are my insights specific (not generic advice)?
+- [ ] Did I identify concrete areas for improvement?
+- [ ] Are the recommended resources truly relevant?
+- [ ] Would a mentor give more useful feedback?
+
+**If ANY answer is NO, keep working.**
+
+---
+
 This skill provides personalized feedback on your recent coding work by analyzing your Claude Code chat interactions and identifying patterns that reveal strengths and areas for growth.
 
 ## When to Use This Skill

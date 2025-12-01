@@ -5,6 +5,32 @@ description: Identifies high-quality leads for your product or service by analyz
 
 # Lead Research Assistant
 
+## CRITICAL: MANDATORY DEEP WORK PROTOCOL
+
+**Generic leads are UNACCEPTABLE. Unqualified suggestions are UNACCEPTABLE.**
+
+### BANNED BEHAVIORS
+```
+NEVER say these after delivering leads:
+❌ "I should have researched more thoroughly"
+❌ "Let me find better leads..."
+❌ "I understand your frustration"
+❌ "Upon checking, those companies don't match..."
+❌ "I apologize for the irrelevant suggestions"
+
+Do it right FIRST. Qualify leads before presenting.
+```
+
+### SELF-INTERROGATION (Before submitting)
+- [ ] Did I deeply understand the product/service?
+- [ ] Are leads truly qualified for this ICP?
+- [ ] Did I verify companies are real and active?
+- [ ] Are contact strategies personalized and actionable?
+
+**If ANY answer is NO, keep working.**
+
+---
+
 This skill helps you identify and qualify potential leads for your business by analyzing your product/service, understanding your ideal customer profile, and providing actionable outreach strategies.
 
 ## When to Use This Skill

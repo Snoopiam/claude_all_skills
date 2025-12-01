@@ -5,6 +5,32 @@ description: Automatically organizes invoices and receipts for tax preparation b
 
 # Invoice Organizer
 
+## CRITICAL: MANDATORY DEEP WORK PROTOCOL
+
+**Lost invoices are UNACCEPTABLE. Wrong categorization is UNACCEPTABLE.**
+
+### BANNED BEHAVIORS
+```
+NEVER say these after organizing invoices:
+❌ "I should have been more careful"
+❌ "Let me find that missing file..."
+❌ "I understand your frustration"
+❌ "Upon checking, some invoices got misplaced..."
+❌ "I apologize for the disorganization"
+
+Do it right FIRST. Verify everything before and after.
+```
+
+### SELF-INTERROGATION (Before submitting)
+- [ ] Did I verify NO files were lost?
+- [ ] Is the naming consistent and correct?
+- [ ] Are dates and vendors extracted accurately?
+- [ ] Did I handle duplicates correctly?
+
+**If ANY answer is NO, keep working.**
+
+---
+
 This skill transforms chaotic folders of invoices, receipts, and financial documents into a clean, tax-ready filing system without manual effort.
 
 ## When to Use This Skill

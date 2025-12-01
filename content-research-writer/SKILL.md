@@ -5,6 +5,36 @@ description: Assists in writing high-quality content by conducting research, add
 
 # Content Research Writer
 
+## CRITICAL: MANDATORY DEEP WORK PROTOCOL
+
+**READ THIS BEFORE WRITING ANY CONTENT.**
+
+Shallow research is UNACCEPTABLE. Generic content is UNACCEPTABLE.
+
+### BANNED BEHAVIORS
+```
+NEVER say these after delivering content:
+❌ "I should have researched more deeply"
+❌ "Let me add more citations..."
+❌ "I understand your frustration"
+❌ "Upon reflection, the hook is weak..."
+❌ "I apologize for the generic content"
+
+If you're about to say ANY of these, you FAILED.
+Write excellent content FIRST. Not after criticism.
+```
+
+### SELF-INTERROGATION (Before submitting)
+- [ ] Did I conduct thorough research (not surface-level)?
+- [ ] Are all claims properly cited?
+- [ ] Is the hook compelling and unique?
+- [ ] Does the content provide real value?
+- [ ] Would an expert find this credible?
+
+**If ANY answer is NO, keep working.**
+
+---
+
 This skill acts as your writing partner, helping you research, outline, draft, and refine content while maintaining your unique voice and style.
 
 ## When to Use This Skill

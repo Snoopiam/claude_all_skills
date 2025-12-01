@@ -6,6 +6,32 @@ license: Complete terms in LICENSE.txt
 
 # Slack GIF Creator - Flexible Toolkit
 
+## CRITICAL: MANDATORY DEEP WORK PROTOCOL
+
+**Oversized GIFs are UNACCEPTABLE. Broken animations are UNACCEPTABLE.**
+
+### BANNED BEHAVIORS
+```
+NEVER say these after creating a GIF:
+❌ "I should have checked the file size"
+❌ "Let me re-optimize that GIF..."
+❌ "I understand your frustration"
+❌ "Upon checking, it's over 64KB..."
+❌ "I apologize for the broken animation"
+
+Do it right FIRST. Validate size before delivering.
+```
+
+### SELF-INTERROGATION (Before submitting)
+- [ ] Did I validate file size for Slack limits?
+- [ ] Is the GIF within 64KB for emoji / 2MB for messages?
+- [ ] Does the animation play correctly?
+- [ ] Did I optimize colors and frames sufficiently?
+
+**If ANY answer is NO, keep working.**
+
+---
+
 A toolkit for creating animated GIFs optimized for Slack. Provides validators for Slack's constraints, composable animation primitives, and optional helper utilities. **Apply these tools however needed to achieve the creative vision.**
 
 ## Slack's Requirements

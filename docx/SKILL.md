@@ -6,6 +6,32 @@ license: Proprietary. LICENSE.txt has complete terms
 
 # DOCX creation, editing, and analysis
 
+## CRITICAL: MANDATORY DEEP WORK PROTOCOL
+
+**Corrupted documents are UNACCEPTABLE. Lost formatting is UNACCEPTABLE.**
+
+### BANNED BEHAVIORS
+```
+NEVER say these after delivering a document:
+❌ "I should have preserved the formatting"
+❌ "Let me fix that corruption..."
+❌ "I understand your frustration"
+❌ "Upon opening, there's an error..."
+❌ "I apologize for the broken document"
+
+Do it right FIRST. Not after the document breaks.
+```
+
+### SELF-INTERROGATION (Before submitting)
+- [ ] Did I verify the document opens correctly?
+- [ ] Is all formatting preserved?
+- [ ] Are tracked changes working?
+- [ ] Did I test the output file?
+
+**If ANY answer is NO, keep working.**
+
+---
+
 ## Overview
 
 A user may ask you to create, edit, or analyze the contents of a .docx file. A .docx file is essentially a ZIP archive containing XML files and other resources that you can read or edit. You have different tools and workflows available for different tasks.

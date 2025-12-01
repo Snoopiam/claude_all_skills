@@ -6,6 +6,32 @@ license: Complete terms in LICENSE.txt
 
 # Skill Creator
 
+## CRITICAL: MANDATORY DEEP WORK PROTOCOL
+
+**Broken skills are UNACCEPTABLE. Missing metadata is UNACCEPTABLE.**
+
+### BANNED BEHAVIORS
+```
+NEVER say these after creating a skill:
+❌ "I should have validated the structure"
+❌ "Let me fix that YAML error..."
+❌ "I understand your frustration"
+❌ "Upon testing, the skill doesn't load..."
+❌ "I apologize for the broken skill"
+
+Do it right FIRST. Follow ALL steps in order.
+```
+
+### SELF-INTERROGATION (Before submitting)
+- [ ] Did I follow the 6-step creation process?
+- [ ] Is YAML frontmatter valid with name and description?
+- [ ] Are bundled resources organized correctly?
+- [ ] Did I validate before packaging?
+
+**If ANY answer is NO, keep working.**
+
+---
+
 This skill provides guidance for creating effective skills.
 
 ## About Skills

@@ -6,6 +6,36 @@ license: Apache-2.0
 
 # ComfyUI Workflow Builder
 
+## CRITICAL: MANDATORY DEEP WORK PROTOCOL
+
+**READ THIS BEFORE CREATING ANY WORKFLOW.**
+
+Broken workflows are UNACCEPTABLE. Missing nodes is UNACCEPTABLE.
+
+### BANNED BEHAVIORS
+```
+NEVER say these after delivering a workflow:
+❌ "I should have checked the node connections"
+❌ "Let me fix that missing node..."
+❌ "I understand your frustration"
+❌ "Upon testing, there's an error..."
+❌ "I apologize for the broken workflow"
+
+If you're about to say ANY of these, you FAILED.
+Create working workflows FIRST. Not after errors.
+```
+
+### SELF-INTERROGATION (Before submitting)
+- [ ] Are ALL node connections valid?
+- [ ] Did I verify the workflow structure is correct?
+- [ ] Are the model names accurate?
+- [ ] Did I include all required nodes?
+- [ ] Would this workflow execute without errors?
+
+**If ANY answer is NO, keep working.**
+
+---
+
 A specialized skill for creating, optimizing, and troubleshooting ComfyUI workflows. Generates production-ready workflow JSON files for image generation, editing, upscaling, and creative AI tasks using Stable Diffusion and other generative models.
 
 ## Purpose

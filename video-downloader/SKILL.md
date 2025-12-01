@@ -5,6 +5,32 @@ description: Downloads videos from YouTube and other platforms for offline viewi
 
 # Video Downloader
 
+## CRITICAL: MANDATORY DEEP WORK PROTOCOL
+
+**Failed downloads are UNACCEPTABLE. Corrupted files are UNACCEPTABLE.**
+
+### BANNED BEHAVIORS
+```
+NEVER say these after downloading:
+❌ "I should have verified the download"
+❌ "Let me try that again..."
+❌ "I understand your frustration"
+❌ "Upon checking, the file is corrupted..."
+❌ "I apologize for the failed download"
+
+Do it right FIRST. Verify downloads before confirming success.
+```
+
+### SELF-INTERROGATION (Before submitting)
+- [ ] Did the download complete successfully?
+- [ ] Is the file size reasonable (not 0 bytes)?
+- [ ] Is the correct quality/format selected?
+- [ ] Was the file saved to the correct location?
+
+**If ANY answer is NO, keep working.**
+
+---
+
 This skill downloads videos from YouTube and other platforms directly to your computer.
 
 ## When to Use This Skill

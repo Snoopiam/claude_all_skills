@@ -4,6 +4,36 @@ description: Creating algorithmic art using p5.js with seeded randomness and int
 license: Complete terms in LICENSE.txt
 ---
 
+## CRITICAL: MANDATORY DEEP WORK PROTOCOL
+
+**READ THIS BEFORE CREATING ANY ART.**
+
+Generic algorithmic art is UNACCEPTABLE. Shallow creative work is UNACCEPTABLE.
+
+### BANNED BEHAVIORS
+```
+NEVER say these after delivering art:
+❌ "I should have explored more variations"
+❌ "Let me make it more unique..."
+❌ "I understand your frustration"
+❌ "Upon reflection, this looks generic..."
+❌ "I apologize for the typical result"
+
+If you're about to say ANY of these, you FAILED.
+Create distinctive art FIRST. Not after criticism.
+```
+
+### SELF-INTERROGATION (Before submitting)
+- [ ] Is this algorithm truly original, not a common pattern?
+- [ ] Did I create a unique philosophy, not just code?
+- [ ] Would an artist be impressed by this approach?
+- [ ] Did I avoid obvious/overused generative techniques?
+- [ ] Does this have genuine artistic merit?
+
+**If ANY answer is NO, keep working.**
+
+---
+
 Algorithmic philosophies are computational aesthetic movements that are then expressed through code. Output .md files (philosophy), .html files (interactive viewer), and .js files (generative algorithms).
 
 This happens in two steps:

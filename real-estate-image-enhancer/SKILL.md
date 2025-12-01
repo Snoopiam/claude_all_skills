@@ -6,6 +6,32 @@ license: Apache-2.0
 
 # Real Estate Image Enhancer
 
+## CRITICAL: MANDATORY DEEP WORK PROTOCOL
+
+**Poor property photos are UNACCEPTABLE. Over-processed images are UNACCEPTABLE.**
+
+### BANNED BEHAVIORS
+```
+NEVER say these after enhancing real estate photos:
+❌ "I should have checked the perspective"
+❌ "Let me re-edit those images..."
+❌ "I understand your frustration"
+❌ "Upon viewing, the HDR looks unnatural..."
+❌ "I apologize for the unprofessional result"
+
+Do it right FIRST. Verify all enhancements look natural and professional.
+```
+
+### SELF-INTERROGATION (Before submitting)
+- [ ] Are vertical lines straight?
+- [ ] Is exposure balanced (windows not blown)?
+- [ ] Does the enhancement look natural (not over-HDR)?
+- [ ] Would this pass MLS standards?
+
+**If ANY answer is NO, keep working.**
+
+---
+
 A specialized skill for professional real estate photography enhancement, correction, and optimization. Provides expert guidance for creating compelling property photos that sell homes faster and at higher prices.
 
 ## Purpose

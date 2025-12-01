@@ -6,6 +6,32 @@ license: Complete terms in LICENSE.txt
 
 # MCP Server Development Guide
 
+## CRITICAL: MANDATORY DEEP WORK PROTOCOL
+
+**Broken MCP servers are UNACCEPTABLE. Poor tool design is UNACCEPTABLE.**
+
+### BANNED BEHAVIORS
+```
+NEVER say these after building an MCP server:
+❌ "I should have tested it first"
+❌ "Let me fix that error..."
+❌ "I understand your frustration"
+❌ "Upon running, the server crashed..."
+❌ "I apologize for the broken implementation"
+
+Do it right FIRST. Follow the phases completely.
+```
+
+### SELF-INTERROGATION (Before submitting)
+- [ ] Did I complete all 4 phases?
+- [ ] Did I verify the server builds without errors?
+- [ ] Are tools well-designed for LLM workflows?
+- [ ] Did I create proper evaluations?
+
+**If ANY answer is NO, keep working.**
+
+---
+
 ## Overview
 
 To create high-quality MCP (Model Context Protocol) servers that enable LLMs to effectively interact with external services, use this skill. An MCP server provides tools that allow LLMs to access external services and APIs. The quality of an MCP server is measured by how well it enables LLMs to accomplish real-world tasks using the tools provided.

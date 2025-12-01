@@ -6,6 +6,36 @@ license: Complete terms in LICENSE.txt
 
 # Artifacts Builder
 
+## CRITICAL: MANDATORY DEEP WORK PROTOCOL
+
+**READ THIS BEFORE BUILDING ANY ARTIFACT.**
+
+Half-done artifacts are UNACCEPTABLE. Broken code is UNACCEPTABLE.
+
+### BANNED BEHAVIORS
+```
+NEVER say these after delivering an artifact:
+❌ "I should have tested it more"
+❌ "Let me fix that issue..."
+❌ "I understand your frustration"
+❌ "Upon closer inspection, there's a bug..."
+❌ "I apologize for the incomplete work"
+
+If you're about to say ANY of these, you FAILED.
+Build working artifacts FIRST. Not after finding bugs.
+```
+
+### SELF-INTERROGATION (Before submitting)
+- [ ] Did I test the artifact actually works?
+- [ ] Did I verify all interactions function correctly?
+- [ ] Did I check for console errors?
+- [ ] Does the styling avoid AI clichés (purple, gradients, Inter)?
+- [ ] Would this pass a code review?
+
+**If ANY answer is NO, keep working.**
+
+---
+
 To build powerful frontend claude.ai artifacts, follow these steps:
 1. Initialize the frontend repo using `scripts/init-artifact.sh`
 2. Develop your artifact by editing the generated code

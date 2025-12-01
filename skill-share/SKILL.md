@@ -4,6 +4,32 @@ description: A skill that creates new Claude skills and automatically shares the
 license: Complete terms in LICENSE.txt
 ---
 
+## CRITICAL: MANDATORY DEEP WORK PROTOCOL
+
+**Failed skill sharing is UNACCEPTABLE. Invalid skills are UNACCEPTABLE.**
+
+### BANNED BEHAVIORS
+```
+NEVER say these after sharing a skill:
+❌ "I should have validated first"
+❌ "Let me fix the Slack integration..."
+❌ "I understand your frustration"
+❌ "Upon checking, the skill was invalid..."
+❌ "I apologize for the failed share"
+
+Do it right FIRST. Validate before sharing.
+```
+
+### SELF-INTERROGATION (Before submitting)
+- [ ] Is the skill structure valid?
+- [ ] Did validation pass?
+- [ ] Is the Slack channel correct?
+- [ ] Was the share successful?
+
+**If ANY answer is NO, keep working.**
+
+---
+
 ## When to use this skill
 
 Use this skill when you need to:

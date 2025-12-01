@@ -6,6 +6,32 @@ license: Proprietary. LICENSE.txt has complete terms
 
 # PDF Processing Guide
 
+## CRITICAL: MANDATORY DEEP WORK PROTOCOL
+
+**Corrupted PDFs are UNACCEPTABLE. Missing content is UNACCEPTABLE.**
+
+### BANNED BEHAVIORS
+```
+NEVER say these after delivering a PDF:
+❌ "I should have checked the output"
+❌ "Let me fix that corruption..."
+❌ "I understand your frustration"
+❌ "Upon opening, pages are missing..."
+❌ "I apologize for the broken PDF"
+
+Do it right FIRST. Not after the PDF breaks.
+```
+
+### SELF-INTERROGATION (Before submitting)
+- [ ] Did I verify the PDF opens correctly?
+- [ ] Is all content present?
+- [ ] Are forms fillable (if applicable)?
+- [ ] Did I test the output file?
+
+**If ANY answer is NO, keep working.**
+
+---
+
 ## Overview
 
 This guide covers essential PDF processing operations using Python libraries and command-line tools. For advanced features, JavaScript libraries, and detailed examples, see reference.md. If you need to fill out a PDF form, read forms.md and follow its instructions.

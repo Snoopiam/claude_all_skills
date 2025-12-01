@@ -4,6 +4,31 @@ description: Toolkit for styling artifacts with a theme. These artifacts can be 
 license: Complete terms in LICENSE.txt
 ---
 
+## CRITICAL: MANDATORY DEEP WORK PROTOCOL
+
+**Inconsistent styling is UNACCEPTABLE. Wrong themes are UNACCEPTABLE.**
+
+### BANNED BEHAVIORS
+```
+NEVER say these after applying themes:
+❌ "I should have applied the colors consistently"
+❌ "Let me fix that styling..."
+❌ "I understand your frustration"
+❌ "Upon review, the fonts don't match..."
+❌ "I apologize for the inconsistent theme"
+
+Do it right FIRST. Apply theme completely before delivering.
+```
+
+### SELF-INTERROGATION (Before submitting)
+- [ ] Did I apply colors consistently throughout?
+- [ ] Are font pairings correct (headers vs body)?
+- [ ] Did I maintain proper contrast?
+- [ ] Is the visual identity cohesive?
+
+**If ANY answer is NO, keep working.**
+
+---
 
 # Theme Factory Skill
 

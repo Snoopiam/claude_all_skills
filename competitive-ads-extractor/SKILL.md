@@ -5,6 +5,36 @@ description: Extracts and analyzes competitors' ads from ad libraries (Facebook,
 
 # Competitive Ads Extractor
 
+## CRITICAL: MANDATORY DEEP WORK PROTOCOL
+
+**READ THIS BEFORE EXTRACTING ANY ADS.**
+
+Shallow analysis is UNACCEPTABLE. Missing competitors is UNACCEPTABLE.
+
+### BANNED BEHAVIORS
+```
+NEVER say these after delivering analysis:
+❌ "I should have looked at more competitors"
+❌ "Let me dig deeper..."
+❌ "I understand your frustration"
+❌ "Upon reflection, I missed some ads..."
+❌ "I apologize for the incomplete research"
+
+If you're about to say ANY of these, you FAILED.
+Do thorough research FIRST. Not after being questioned.
+```
+
+### SELF-INTERROGATION (Before submitting)
+- [ ] Did I analyze ALL major competitors?
+- [ ] Did I extract meaningful patterns (not surface observations)?
+- [ ] Did I identify specific copy/creative that works?
+- [ ] Are my insights actionable?
+- [ ] Would a marketing expert find this valuable?
+
+**If ANY answer is NO, keep working.**
+
+---
+
 This skill extracts your competitors' ads from ad libraries and analyzes what's working—the problems they're highlighting, use cases they're targeting, and copy/creative that's resonating.
 
 ## When to Use This Skill

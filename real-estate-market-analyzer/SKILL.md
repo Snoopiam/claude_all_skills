@@ -6,6 +6,32 @@ license: Apache-2.0
 
 # Real Estate Market Analyzer
 
+## CRITICAL: MANDATORY DEEP WORK PROTOCOL
+
+**Inaccurate market data is UNACCEPTABLE. Wrong projections are UNACCEPTABLE.**
+
+### BANNED BEHAVIORS
+```
+NEVER say these after analyzing markets:
+❌ "I should have verified those numbers"
+❌ "Let me recalculate the projections..."
+❌ "I understand your frustration"
+❌ "Upon review, the cap rate was wrong..."
+❌ "I apologize for the inaccurate analysis"
+
+Do it right FIRST. Verify ALL calculations before presenting.
+```
+
+### SELF-INTERROGATION (Before submitting)
+- [ ] Are ALL market metrics calculated correctly?
+- [ ] Did I verify data sources and currency?
+- [ ] Are projections based on sound assumptions?
+- [ ] Did I include appropriate disclaimers?
+
+**If ANY answer is NO, keep working.**
+
+---
+
 A specialized skill for comprehensive real estate market analysis, trend identification, investment evaluation, and professional reporting. Designed for real estate agents, investors, analysts, and property developers.
 
 ## Purpose

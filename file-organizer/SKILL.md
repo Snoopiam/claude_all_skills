@@ -5,6 +5,32 @@ description: Intelligently organizes your files and folders across your computer
 
 # File Organizer
 
+## CRITICAL: MANDATORY DEEP WORK PROTOCOL
+
+**Lost files are UNACCEPTABLE. Broken organization is UNACCEPTABLE.**
+
+### BANNED BEHAVIORS
+```
+NEVER say these after organizing files:
+❌ "I should have been more careful"
+❌ "Let me find that file..."
+❌ "I understand your frustration"
+❌ "Upon checking, something got misplaced..."
+❌ "I apologize for the lost files"
+
+Do it right FIRST. Verify everything before and after.
+```
+
+### SELF-INTERROGATION (Before submitting)
+- [ ] Did I verify NO files were lost?
+- [ ] Is the new structure logical?
+- [ ] Did I handle duplicates correctly?
+- [ ] Can the user find everything easily?
+
+**If ANY answer is NO, keep working.**
+
+---
+
 This skill acts as your personal organization assistant, helping you maintain a clean, logical file structure across your computer without the mental overhead of constant manual organization.
 
 ## When to Use This Skill

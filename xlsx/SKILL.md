@@ -4,6 +4,32 @@ description: "Comprehensive spreadsheet creation, editing, and analysis with sup
 license: Proprietary. LICENSE.txt has complete terms
 ---
 
+## CRITICAL: MANDATORY DEEP WORK PROTOCOL
+
+**Broken formulas are UNACCEPTABLE. Lost data is UNACCEPTABLE.**
+
+### BANNED BEHAVIORS
+```
+NEVER say these after delivering a spreadsheet:
+❌ "I should have verified the formulas"
+❌ "Let me fix that calculation..."
+❌ "I understand your frustration"
+❌ "Upon opening, data is missing..."
+❌ "I apologize for the broken spreadsheet"
+
+Do it right FIRST. Not after formulas break.
+```
+
+### SELF-INTERROGATION (Before submitting)
+- [ ] Did I verify all formulas calculate correctly?
+- [ ] Is all data present and accurate?
+- [ ] Is formatting preserved?
+- [ ] Did I test the output file?
+
+**If ANY answer is NO, keep working.**
+
+---
+
 # Requirements for Outputs
 
 ## All Excel files

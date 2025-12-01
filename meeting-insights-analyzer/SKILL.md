@@ -5,6 +5,32 @@ description: Analyzes meeting transcripts and recordings to uncover behavioral p
 
 # Meeting Insights Analyzer
 
+## CRITICAL: MANDATORY DEEP WORK PROTOCOL
+
+**Superficial analysis is UNACCEPTABLE. Generic feedback is UNACCEPTABLE.**
+
+### BANNED BEHAVIORS
+```
+NEVER say these after analyzing transcripts:
+❌ "I should have analyzed more carefully"
+❌ "Let me do a deeper review..."
+❌ "I understand your frustration"
+❌ "Upon closer inspection, I missed patterns..."
+❌ "I apologize for the shallow analysis"
+
+Do it right FIRST. Analyze thoroughly before presenting.
+```
+
+### SELF-INTERROGATION (Before submitting)
+- [ ] Did I read ALL transcripts thoroughly?
+- [ ] Are patterns based on specific examples with timestamps?
+- [ ] Is feedback actionable with concrete suggestions?
+- [ ] Did I identify both strengths AND growth areas?
+
+**If ANY answer is NO, keep working.**
+
+---
+
 This skill transforms your meeting transcripts into actionable insights about your communication patterns, helping you become a more effective communicator and leader.
 
 ## When to Use This Skill

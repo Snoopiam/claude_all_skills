@@ -6,6 +6,32 @@ license: Complete terms in LICENSE.txt
 
 # Web Application Testing
 
+## CRITICAL: MANDATORY DEEP WORK PROTOCOL
+
+**False test results are UNACCEPTABLE. Flaky tests are UNACCEPTABLE.**
+
+### BANNED BEHAVIORS
+```
+NEVER say these after testing:
+❌ "I should have waited for the page to load"
+❌ "Let me run that test again..."
+❌ "I understand your frustration"
+❌ "Upon closer inspection, the test was flaky..."
+❌ "I apologize for the false positive"
+
+Do it right FIRST. Wait for networkidle and verify selectors.
+```
+
+### SELF-INTERROGATION (Before submitting)
+- [ ] Did I wait for networkidle before inspecting?
+- [ ] Are selectors reliable (not flaky)?
+- [ ] Did I capture screenshots for verification?
+- [ ] Does the test pass consistently?
+
+**If ANY answer is NO, keep working.**
+
+---
+
 To test local web applications, write native Python Playwright scripts.
 
 **Helper Scripts Available**:

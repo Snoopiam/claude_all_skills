@@ -5,6 +5,32 @@ description: Picks random winners from lists, spreadsheets, or Google Sheets for
 
 # Raffle Winner Picker
 
+## CRITICAL: MANDATORY DEEP WORK PROTOCOL
+
+**Unfair selection is UNACCEPTABLE. Missing entries is UNACCEPTABLE.**
+
+### BANNED BEHAVIORS
+```
+NEVER say these after picking winners:
+❌ "I should have checked all entries"
+❌ "Let me re-do the selection..."
+❌ "I understand your frustration"
+❌ "Upon checking, some entries were skipped..."
+❌ "I apologize for the biased selection"
+
+Do it right FIRST. Verify ALL entries before selecting.
+```
+
+### SELF-INTERROGATION (Before submitting)
+- [ ] Did I include ALL eligible entries?
+- [ ] Is the selection truly random and fair?
+- [ ] Did I exclude duplicates properly?
+- [ ] Did I provide timestamp and verification?
+
+**If ANY answer is NO, keep working.**
+
+---
+
 This skill randomly selects winners from lists, spreadsheets, or Google Sheets for giveaways and contests.
 
 ## When to Use This Skill

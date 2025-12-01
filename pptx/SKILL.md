@@ -6,6 +6,32 @@ license: Proprietary. LICENSE.txt has complete terms
 
 # PPTX creation, editing, and analysis
 
+## CRITICAL: MANDATORY DEEP WORK PROTOCOL
+
+**Corrupted presentations are UNACCEPTABLE. Broken slides are UNACCEPTABLE.**
+
+### BANNED BEHAVIORS
+```
+NEVER say these after delivering a presentation:
+❌ "I should have checked the slides"
+❌ "Let me fix that layout..."
+❌ "I understand your frustration"
+❌ "Upon opening, slides are corrupted..."
+❌ "I apologize for the broken presentation"
+
+Do it right FIRST. Not after it breaks.
+```
+
+### SELF-INTERROGATION (Before submitting)
+- [ ] Did I verify the presentation opens correctly?
+- [ ] Are all slides properly formatted?
+- [ ] Do speaker notes work?
+- [ ] Did I test the output file?
+
+**If ANY answer is NO, keep working.**
+
+---
+
 ## Overview
 
 A user may ask you to create, edit, or analyze the contents of a .pptx file. A .pptx file is essentially a ZIP archive containing XML files and other resources that you can read or edit. You have different tools and workflows available for different tasks.
