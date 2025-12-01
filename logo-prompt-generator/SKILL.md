@@ -39,23 +39,138 @@ Before claiming prompts are complete:
 
 ### SELF-INTERROGATION (Do this before submitting)
 
-- [ ] Did I include comprehensive negative prompts?
+- [ ] Did I create exactly 3 DIFFERENT prompt sets?
+- [ ] Are all 3 prompt sets in SEPARATE folders?
+- [ ] Did I include comprehensive negative prompts for each?
 - [ ] Did I ban purple, blue-purple gradients, and neon colors?
 - [ ] Did I specify colors by HEX code?
 - [ ] Did I reference specific art movements (not just "modern")?
 - [ ] Would these prompts produce unique, non-AI-looking results?
 - [ ] Did I avoid all terms from the BANNED list?
-- [ ] If the user generates 10 logos, will they ALL be distinctive?
+- [ ] Are all 3 prompt directions genuinely DIFFERENT from each other?
 
 **If ANY answer is wrong, you are not done. Keep working.**
 
 ### PROOF OF WORK REQUIRED
 
-For EVERY prompt set, you MUST provide:
-- Explanation of why this won't produce generic results
-- The specific negative prompts included
+For EVERY prompt project, you MUST provide:
+- **3 DISTINCT PROMPT SETS** - each in its own folder
+- Explanation of why each won't produce generic results
+- The specific negative prompts included for each
 - Why you chose these colors/styles (not AI defaults)
 - What AI clichés you specifically excluded
+- How each direction differs from the others
+
+---
+
+## MANDATORY: 3 PROMPT VARIATIONS REQUIREMENT
+
+**EVERY logo prompt project MUST produce exactly 3 distinct prompt sets.**
+
+### Folder Structure (REQUIRED)
+```
+[project-name]-prompts/
+├── direction-1-[style-name]/
+│   ├── midjourney-prompts.md
+│   ├── dalle-prompts.md
+│   ├── stable-diffusion-prompts.md
+│   └── direction-notes.md
+├── direction-2-[style-name]/
+│   ├── midjourney-prompts.md
+│   ├── dalle-prompts.md
+│   ├── stable-diffusion-prompts.md
+│   └── direction-notes.md
+├── direction-3-[style-name]/
+│   ├── midjourney-prompts.md
+│   ├── dalle-prompts.md
+│   ├── stable-diffusion-prompts.md
+│   └── direction-notes.md
+└── comparison-summary.md
+```
+
+### What "DIFFERENT DIRECTIONS" Means
+
+Each prompt set MUST differ in at least 2 of these aspects:
+- **Logo Type**: Symbol vs Wordmark vs Combination Mark vs Emblem
+- **Visual Style**: Geometric vs Organic vs Vintage vs Minimalist
+- **Color Approach**: Warm palette vs Cool palette vs Monochrome
+- **Art Movement**: Bauhaus vs Art Deco vs Swiss vs Japanese Minimalism
+- **Concept/Metaphor**: Completely different visual storytelling
+
+### UNACCEPTABLE (Not truly different)
+```
+❌ Same style with different color prompts
+❌ Same concept with minor keyword changes
+❌ Variations that would produce similar-looking logos
+❌ Three versions of "minimalist modern tech"
+```
+
+### ACCEPTABLE (Truly different)
+```
+✓ Direction 1: Geometric Bauhaus-inspired symbol with terracotta and charcoal
+✓ Direction 2: Hand-drawn organic wordmark with sage and cream
+✓ Direction 3: Art Deco emblem with navy and gold
+```
+
+### Direction Notes Template (for each folder)
+
+Each `direction-notes.md` must include:
+```markdown
+# Direction [1/2/3]: [Direction Name]
+
+## Visual Concept
+[What visual story does this direction tell?]
+
+## Style Foundation
+- Logo Type: [Symbol/Wordmark/Combination/Emblem]
+- Art Movement Reference: [Bauhaus/Art Deco/Swiss/etc.]
+- Primary Color: [Color name + HEX]
+- Secondary Color: [Color name + HEX]
+
+## Why This Direction Is Unique
+[How this differs from the other 2 directions]
+
+## Anti-AI Measures
+- Colors avoided: [list]
+- Styles avoided: [list]
+- Symbols avoided: [list]
+
+## Expected Output Style
+[Description of what the generated logos should look like]
+```
+
+### Comparison Summary Template
+
+The `comparison-summary.md` must include:
+```markdown
+# Prompt Directions Comparison
+
+## Direction 1: [Name]
+- Style: [summary]
+- Colors: [summary]
+- Expected feel: [summary]
+
+## Direction 2: [Name]
+- Style: [summary]
+- Colors: [summary]
+- Expected feel: [summary]
+
+## Direction 3: [Name]
+- Style: [summary]
+- Colors: [summary]
+- Expected feel: [summary]
+
+## Key Differentiators
+| Aspect | Direction 1 | Direction 2 | Direction 3 |
+|--------|-------------|-------------|-------------|
+| Logo Type | | | |
+| Style | | | |
+| Colors | | | |
+| Mood | | | |
+
+## Recommendation
+[Which direction suits which brand personality best]
+```
 
 ---
 

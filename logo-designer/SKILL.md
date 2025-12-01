@@ -39,12 +39,13 @@ Before claiming a logo is complete:
 
 ### SELF-INTERROGATION (Do this before submitting)
 
-- [ ] Did I explore at least 3 genuinely DIFFERENT directions?
-- [ ] Does this logo have a unique concept/story?
-- [ ] Would a human designer be proud of this?
-- [ ] Does this work at 16px? At 500px?
-- [ ] Does this work without color?
-- [ ] Is this distinctive from competitors?
+- [ ] Did I create exactly 3 genuinely DIFFERENT variations?
+- [ ] Are all 3 variations in SEPARATE folders?
+- [ ] Does each logo have a unique concept/story?
+- [ ] Would a human designer be proud of these?
+- [ ] Do they all work at 16px? At 500px?
+- [ ] Do they all work without color?
+- [ ] Are they all distinctive from competitors AND from each other?
 - [ ] Did I avoid ALL banned colors, fonts, and symbols?
 - [ ] If shown to a design expert, would they say "that's AI"?
 
@@ -52,12 +53,104 @@ Before claiming a logo is complete:
 
 ### PROOF OF WORK REQUIRED
 
-For EVERY logo, you MUST provide:
-- The concept/story behind the design
-- Why this is distinctive (not generic)
-- How it works at different sizes
+For EVERY logo project, you MUST provide:
+- **3 DISTINCT VARIATIONS** - each in its own folder
+- The concept/story behind each design
+- Why each is distinctive (not generic)
+- How each works at different sizes
 - Why you chose these specific colors/fonts
-- Evidence it doesn't match banned aesthetics
+- Evidence none match banned aesthetics
+
+---
+
+## MANDATORY: 3 VARIATIONS REQUIREMENT
+
+**EVERY logo project MUST produce exactly 3 distinct variations.**
+
+### Folder Structure (REQUIRED)
+```
+[project-name]/
+├── variation-1/
+│   ├── logo-primary.svg
+│   ├── logo-primary.png
+│   ├── logo-icon.svg
+│   ├── logo-icon.png
+│   ├── logo-monochrome.svg
+│   ├── logo-reversed.svg
+│   └── concept-notes.md
+├── variation-2/
+│   ├── logo-primary.svg
+│   ├── logo-primary.png
+│   ├── logo-icon.svg
+│   ├── logo-icon.png
+│   ├── logo-monochrome.svg
+│   ├── logo-reversed.svg
+│   └── concept-notes.md
+├── variation-3/
+│   ├── logo-primary.svg
+│   ├── logo-primary.png
+│   ├── logo-icon.svg
+│   ├── logo-icon.png
+│   ├── logo-monochrome.svg
+│   ├── logo-reversed.svg
+│   └── concept-notes.md
+└── brand-guidelines.pdf
+```
+
+### What "DIFFERENT" Means
+
+Each variation MUST differ in at least 2 of these aspects:
+- **Logo Type**: Symbol vs Wordmark vs Combination Mark vs Emblem
+- **Visual Style**: Geometric vs Organic vs Hand-drawn vs Architectural
+- **Color Palette**: Completely different primary colors (not just shades)
+- **Typography**: Different font family/style
+- **Concept/Metaphor**: Different visual storytelling approach
+
+### UNACCEPTABLE (Not truly different)
+```
+❌ Same logo with different colors
+❌ Same concept with minor tweaks
+❌ Same style with different arrangements
+❌ Variations that look like siblings
+```
+
+### ACCEPTABLE (Truly different)
+```
+✓ Variation 1: Minimalist wordmark with geometric letterforms
+✓ Variation 2: Abstract symbol with organic flowing shapes
+✓ Variation 3: Vintage emblem with serif typography and badge style
+```
+
+### Concept Notes Template (for each variation)
+
+Each `concept-notes.md` must include:
+```markdown
+# Variation [1/2/3]: [Concept Name]
+
+## Concept Story
+[Why this direction? What does it communicate?]
+
+## Visual Approach
+- Logo Type: [Symbol/Wordmark/Combination/Emblem]
+- Style: [Geometric/Organic/Vintage/Modern/etc.]
+- Primary Color: [Color name + HEX]
+- Secondary Color: [Color name + HEX]
+- Typography: [Font name and why]
+
+## Differentiation
+- How this differs from Variation 1: [explanation]
+- How this differs from Variation 2: [explanation]
+- How this differs from Variation 3: [explanation]
+
+## Size Testing
+- Favicon (16px): [Pass/Fail + notes]
+- App Icon (64px): [Pass/Fail + notes]
+- Website Header (200px): [Pass/Fail + notes]
+- Billboard (large): [Pass/Fail + notes]
+
+## Why This Isn't Generic AI
+[Specific explanation of what makes this distinctive]
+```
 
 ---
 
